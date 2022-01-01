@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bobby
+- 👀 This account only exists so I can follow and contribute to projects that aren't hosted on other platforms.
+- 💞️ Please use another software repository, preferably something with a FLOSS backend.
